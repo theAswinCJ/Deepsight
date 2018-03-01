@@ -14,5 +14,26 @@
     <image:image>
       <image:loc>http://theaswincj.github.io/deepsight/images/github.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://theaswincj.github.io/deepsight/images/microsoft.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theaswincj.github.io/deepsight/images/google.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theaswincj.github.io/deepsight/images/apple.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theaswincj.github.io/deepsight/images/amazon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theaswincj.github.io/deepsight/images/tesla.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theaswincj.github.io/deepsight/images/abins.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://theaswincj.github.io/deepsight/images/nisag.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
